@@ -35,10 +35,10 @@ poc-orchestra/
 ├── app2/ 
 │   ├── docker-compose.yml 
 │   └── ...
-└── proxy/ 
-  ├── docker-compose.yml 
-  └── nginx.conf
-  └── docker-compose.yml
+├── proxy/ 
+│   ├── docker-compose.yml 
+│   └── nginx.conf
+└── docker-compose.yml
 ```
 
 ## Security Features
